@@ -46,8 +46,8 @@ export const SONGS: Song[] = [
     genre: 'Thai Pop',
     mood: 'แอบชอบใครบางคน',
     description: 'เพลงที่มีจังหวะสนุกๆ เนื้อหาน่ารักๆ เกี่ยวกับการแอบชอบใครบางคน',
-    coverUrl: 'https://www.dropbox.com/scl/fi/2meh7csf623mg6xay7nbb/a3db067f-6ac5-4aec-b2c4-c1ecf0b55d9e.png?rlkey=tgli23nyebi9pd0mz1972vc9o&st=uifexvrn&dl=1',
-    audioUrl: 'https://www.dropbox.com/scl/fi/me2mkiy9rxa2xrf1lcyjp/.mp3?rlkey=8993sgvbk90jinpc6op2ob7wk&st=qy2tjp82&dl=1',
+    coverUrl: 'https://www.dropbox.com/scl/fi/2meh7csf623mg6xay7nbb/a3db067f-6ac5-4aec-b2c4-c1ecf0b55d9e.png?rlkey=tgli23nyebi9pd0mz1972vc9o&st=uifexvrn&raw=1',
+    audioUrl: 'https://www.dropbox.com/scl/fi/me2mkiy9rxa2xrf1lcyjp/.mp3?rlkey=8993sgvbk90jinpc6op2ob7wk&st=qy2tjp82&raw=1',
     youtubeUrl: 'https://youtu.be/5RLkOAjzoaE'
   },
   {
@@ -56,8 +56,8 @@ export const SONGS: Song[] = [
     genre: 'Pop Rock',
     mood: 'การรอใครสักคน',
     description: 'เพลงป๊อปร็อคที่บอกเล่าเรื่องราวการรอคอยใครบางคน ดนตรีฟังสบายๆ มีกลิ่นอายเสียงกีตาร์อบอุ่น',
-    coverUrl: 'https://www.dropbox.com/scl/fi/kt9s9bz1aeul37hm8k34a/fabca45a-e216-43a9-b322-8c8e0c907751.png?rlkey=edrvwmohao6p9c9lng6apviyq&st=rvw1607g&dl=1',
-    audioUrl: 'https://www.dropbox.com/scl/fi/iekjnejgzfts1pvxyuocb/.mp3?rlkey=bjjn2xk3ntwuwss37frcdgz24&st=58zd9t4a&dl=1',
+    coverUrl: 'https://www.dropbox.com/scl/fi/kt9s9bz1aeul37hm8k34a/fabca45a-e216-43a9-b322-8c8e0c907751.png?rlkey=edrvwmohao6p9c9lng6apviyq&st=rvw1607g&raw=1',
+    audioUrl: 'https://www.dropbox.com/scl/fi/iekjnejgzfts1pvxyuocb/.mp3?rlkey=bjjn2xk3ntwuwss37frcdgz24&st=58zd9t4a&raw=1',
     youtubeUrl: 'https://youtu.be/_4-2IzdLNe0?si=WTpnhGrgAuau-BhT'
   },
   {
@@ -67,7 +67,7 @@ export const SONGS: Song[] = [
     mood: 'คนแพ้ในความรัก',
     description: 'เพลงป๊อปร็อคที่บอกเล่าเรื่องราวความรักของคนแพ้สองคน ดนตรีฟังสบายๆ มีกลิ่นอายเสียงกีตาร์อบอุ่น',
     coverUrl: '',
-    audioUrl: 'https://www.dropbox.com/scl/fi/25t99xbx2jr2tocrkulap/.mp3?rlkey=v38ctdq746obm7htk88hhe2uk&st=ilhlc7nt&dl=1',
+    audioUrl: 'https://www.dropbox.com/scl/fi/25t99xbx2jr2tocrkulap/.mp3?rlkey=v38ctdq746obm7htk88hhe2uk&st=ilhlc7nt&raw=1',
     youtubeUrl: ''
   },
    {
@@ -77,7 +77,7 @@ export const SONGS: Song[] = [
     mood: 'คนแพ้ในความรัก',
     description: 'เพลงป๊อปร็อคที่บอกเล่าเรื่องราวความรักของคนแพ้สองคน ดนตรีฟังสบายๆ มีกลิ่นอายเสียงกีตาร์อบอุ่น',
     coverUrl: '',
-    audioUrl: 'https://www.dropbox.com/scl/fi/ugx4bce1neh0p6cru7ltv/.mp3?rlkey=44n77evbsf13pgujoao2eg0j0&st=0l56g1yv&dl=1',
+    audioUrl: 'https://www.dropbox.com/scl/fi/ugx4bce1neh0p6cru7ltv/.mp3?rlkey=44n77evbsf13pgujoao2eg0j0&st=0l56g1yv&raw=1',
     youtubeUrl: ''
   }
 ];
@@ -97,7 +97,7 @@ export const MVS: MV[] = [
     genre: 'Thai Pop',
     description: 'MV หวานๆ ที่จะทำให้คุณอบอุ่นหัวใจและอินไปกับเสียงเพลง',
     youtubeEmbedUrl: 'https://www.youtube.com/embed/5RLkOAjzoaE?si=-iCQrat4-e5meY2h', // Placeholder video embed
-    coverUrl: 'https://www.dropbox.com/scl/fi/2meh7csf623mg6xay7nbb/a3db067f-6ac5-4aec-b2c4-c1ecf0b55d9e.png?rlkey=tgli23nyebi9pd0mz1972vc9o&st=uifexvrn&dl=1'
+    coverUrl: 'https://www.dropbox.com/scl/fi/2meh7csf623mg6xay7nbb/a3db067f-6ac5-4aec-b2c4-c1ecf0b55d9e.png?rlkey=tgli23nyebi9pd0mz1972vc9o&st=uifexvrn&raw=1'
   }
 ];
 
